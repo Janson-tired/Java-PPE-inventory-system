@@ -1,0 +1,3 @@
+SP1<>supplier number 1<>0125478963<>sample address 1
+SP2<>supplier number 2<>0127589631<>sample address 2
+SP3<>supplier number 3<>0129512368<>sample address 3

@@ -1,0 +1,6 @@
+HC<>Head Cover<>27<>SP1
+FS<>Face shield<>119<>SP2
+MS<>Mask<>99<>SP2
+GL<>Gloves<>210<>SP2
+GW<>Gown<>69<>SP3
+SC<>Shoe cover<>49<>SP2
